@@ -3,7 +3,7 @@ Hi, there 👋 I’m full-stack developer using Web.
 
 ✨ Skills ✨  
 Languages
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript"/>
 
