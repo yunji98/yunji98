@@ -1,5 +1,14 @@
-Hi, there 👋 I’m @yunji98
+Hi, there 👋 I’m full-stack developer using Web.
 
+✨ Skills ✨  
+Languages & Frameworks
+
+
+Tools
+
+
+Cotact Me
+<a href="https://developerjournal.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-yellow?style=flat-square"/></a>
 
 
 <!---
